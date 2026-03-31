@@ -16,6 +16,17 @@ Automates Feedback:
 It streamlines the grading process, allowing for more time to be spent on instruction rather than administration.
 
 
+Google form link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeC5WoRAGieAdeWgadaWPKdpfNW47dJ3RPBGFYwUTI8DzQJ6g/viewform?usp=dialog
+
+
+Google form response link:
+
+https://docs.google.com/spreadsheets/d/19MCtD0VKLo_Dwz8faP8prkRcEInFUlg8Ht02FSHP_L4/edit?usp=sharing
+
+
+
 2. HACKERRANK:
 This platform is invaluable for:
 
