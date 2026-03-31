@@ -17,3 +17,13 @@ STAY SAFE ONLINE CHECKLIST:
 7. Be Skeptical of "Urgent" Messages: Phishing attacks rely on creating panic (e.g., "Your account will be blocked in 2 hours!"). Take a breath and verify the claim through the official app or website—never through the link in the message.
 
 8. Audit App Permissions: Periodically check which apps have access to your contacts, SMS, and location. Delete any apps you no longer use to reduce your "digital footprint.
+
+
+
+IF YOU ARE A VICTIM OF FRAUD:
+
+Call Immediately: Dial 1930 (National Cyber Crime Helpline).
+
+Report Online: Visit cybercrime.gov.in to lodge a formal complaint.
+
+Keep Records: Save screenshots of the fraudulent transaction, the scammer's number, and any links they sent.
